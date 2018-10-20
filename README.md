@@ -10,6 +10,7 @@ This is a very simple extension, it automatically organizes your downloads by da
 # Installation
 
  1. This extension is available on Chrome Store: https://chrome.google.com/webstore/detail/organize-downloads-by-dat/ipjljbilkibpncgnagphiamkkdilbbki/related
+ 2. Recommended: Click the extension icon -> "Hide in Chrome menu" (it works in the background, no need for the icon)
 
 # Manual Installation
 
