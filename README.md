@@ -1,7 +1,9 @@
 # Organize Downloads by Date - Chrome Extension
 
 This is a very simple extension, it automatically organizes your downloads by date, like so:
+
 **Before**: Downloads/example.file
+
 **After**: Downloads/**2018/10**/example.file
 
 
