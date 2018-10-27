@@ -18,7 +18,7 @@ chrome.downloads.onDeterminingFilename.addListener(function(item, __suggest) {
   }
 
   var d = new Date();
-  var month = d.getMonth();
+  var month = d.getMonth() + 1; // index starts at 0, so we have to add 1
   var year = d.getFullYear();
 
   suggest(year + '/' + month + '/' + item.filename, 'uniquify');
